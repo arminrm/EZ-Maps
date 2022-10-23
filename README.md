@@ -1,5 +1,5 @@
 # EZ-Maps
-GIS software program in C++ that lets the user visualize and solve travel optimization problems in Toronto
+GIS software program in C++ that lets the user visualize and solve travel optimization problems in Toronto. Due to the University of Toronto's Academic Integrity Policy, the code for this project is not made publicly available.
 
 <div>
   <img src="https://img.shields.io/badge/-C++-informational" />
